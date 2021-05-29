@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @RidaNaeem
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python programing and Machine Learning
-- 💞️ I’m looking to collaborate on Data Science Projects
-- 📫 How to reach me rida_naeem@hotmail.com
+**Hi** 👋 , **I am Rida Naeem**
+
+I am interested in _**Data Science, Machine Learning and Data Analytics**_
+
+I am a freelancer in Data Analytics and currently learning Python programing and Machine Learning
+
+Skills: **SQL, Power Bi, Excel, Python**
+
+
+📧 How to reach me:
+
+rida_naeem@hotmail.com
+
+www.linkedin.com/in/rida-naeem-3a21814a
 
 <!---
 RidaNaeem/RidaNaeem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
