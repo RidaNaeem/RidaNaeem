@@ -2,9 +2,9 @@
 
 I am interested in _**Data Science, Machine Learning and Data Analytics**_
 
-I am a freelancer in Data Analytics and currently learning Python programing and Machine Learning
+I am a freelancer in Data Analytics and Machine Learning
 
-Skills: **SQL, Power Bi, Excel, Python**
+Skills: **SQL, Power Bi, Excel, Data Science using Python, Machine Learning**
 
 
 📧 How to reach me:
